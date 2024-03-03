@@ -16,11 +16,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Web browser Screenshot](images/screenshot.webp "Screenshot of the Web")
+![Web browser Screenshot](screenshot.webp "Screenshot of the Web")
 
 ### Links
 
-Github Pages URL:
+Github Pages: [URL](https://mr-sombra.github.io/qr-code-component/)
 
 ## My process
 
